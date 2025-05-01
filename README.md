@@ -75,6 +75,11 @@ FraudDetection/
 ├── requirements.txt        # Список зависимостей
 └── models/                 # Сохраненные модели
 ```
+### Датасет
+
+Для данного проекта используется датасет **"Credit Card Fraud Detection"**, который содержит транзакции кредитных карт за два дня сентября 2013 года. 
+
+Датасет доступен на Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ### Запуск ноутбука
 1. Скачайте датасет и поместите его в директорию `data/`.
