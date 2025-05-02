@@ -68,8 +68,6 @@ FraudDetection/
 │
 ├── README.md               # Описание проекта
 ├── FraudDetection.ipynb          # Ноутбук с анализом и моделями
-├── data/                   # Директория для данных
-│   
 ├── requirements.txt        # Список зависимостей
 └── models/                 # Сохраненные модели
 ```
@@ -80,7 +78,7 @@ FraudDetection/
 Датасет доступен на Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ### Запуск ноутбука
-1. Скачайте датасет и поместите его в директорию `data/`.
+1. Скачайте датасет и поместите его в директорию проекта.
 2. Откройте ноутбук `FraudDetection.ipynb`.
 3. Выполните ячейки для загрузки данных, обучения моделей и оценки их качества.
 
